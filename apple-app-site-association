@@ -12,6 +12,11 @@
         "paths": [
           "*"
         ]
+      },{
+        "appID": "97X533GT5M.hk.edu.hkbu.butrace.ios",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
